@@ -7,9 +7,7 @@ editLink: true
 lastUpdated: true
 ---
 
-<script setup>
-import { data } from './data';
-</script>
+
 
 # 欢迎来到我的技术文档空间
 
@@ -61,4 +59,5 @@ import { data } from './data';
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 </style>
+
 ---
